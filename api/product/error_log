@@ -1,0 +1,535 @@
+[18-Jan-2021 12:46:45 Asia/Kuala_Lumpur] PHP Fatal error:  Class 'PDO' not found in /home/cheannyo/public_html/api/config/dbconfig.php on line 22
+[18-Jan-2021 12:46:47 Asia/Kuala_Lumpur] PHP Fatal error:  Class 'PDO' not found in /home/cheannyo/public_html/api/config/dbconfig.php on line 22
+[18-Jan-2021 12:47:42 Asia/Kuala_Lumpur] PHP Fatal error:  Class 'PDO' not found in /home/cheannyo/public_html/api/config/dbconfig.php on line 22
+[19-Jan-2021 15:20:35 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: Pkd_b in /home/cheannyo/public_html/utility/JWT/JWTHelper.php on line 15
+[19-Jan-2021 15:20:35 Asia/Kuala_Lumpur] PHP Stack trace:
+[19-Jan-2021 15:20:35 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read.php:0
+[19-Jan-2021 15:20:35 Asia/Kuala_Lumpur] PHP   2. utility\JWT\JWTHelper::tokenValidate() /home/cheannyo/public_html/api/product/read.php:25
+[19-Jan-2021 15:22:09 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: Pkd_b in /home/cheannyo/public_html/utility/JWT/JWTHelper.php on line 15
+[19-Jan-2021 15:22:09 Asia/Kuala_Lumpur] PHP Stack trace:
+[19-Jan-2021 15:22:09 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read.php:0
+[19-Jan-2021 15:22:09 Asia/Kuala_Lumpur] PHP   2. utility\JWT\JWTHelper::tokenValidate() /home/cheannyo/public_html/api/product/read.php:25
+[19-Jan-2021 15:23:53 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: Pkd_b in /home/cheannyo/public_html/utility/JWT/JWTHelper.php on line 15
+[19-Jan-2021 15:23:53 Asia/Kuala_Lumpur] PHP Stack trace:
+[19-Jan-2021 15:23:53 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read.php:0
+[19-Jan-2021 15:23:53 Asia/Kuala_Lumpur] PHP   2. utility\JWT\JWTHelper::tokenValidate() /home/cheannyo/public_html/api/product/read.php:25
+[19-Jan-2021 15:25:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: Pkd_b in /home/cheannyo/public_html/utility/JWT/JWTHelper.php on line 15
+[19-Jan-2021 15:25:38 Asia/Kuala_Lumpur] PHP Stack trace:
+[19-Jan-2021 15:25:38 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read.php:0
+[19-Jan-2021 15:25:38 Asia/Kuala_Lumpur] PHP   2. utility\JWT\JWTHelper::tokenValidate() /home/cheannyo/public_html/api/product/read.php:25
+[19-Jan-2021 15:25:49 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: Pkd_b in /home/cheannyo/public_html/utility/JWT/JWTHelper.php on line 15
+[19-Jan-2021 15:25:49 Asia/Kuala_Lumpur] PHP Stack trace:
+[19-Jan-2021 15:25:49 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read.php:0
+[19-Jan-2021 15:25:49 Asia/Kuala_Lumpur] PHP   2. utility\JWT\JWTHelper::tokenValidate() /home/cheannyo/public_html/api/product/read.php:25
+[19-Jan-2021 15:26:10 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: Pkd_b in /home/cheannyo/public_html/utility/JWT/JWTHelper.php on line 15
+[19-Jan-2021 15:26:10 Asia/Kuala_Lumpur] PHP Stack trace:
+[19-Jan-2021 15:26:10 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read.php:0
+[19-Jan-2021 15:26:10 Asia/Kuala_Lumpur] PHP   2. utility\JWT\JWTHelper::tokenValidate() /home/cheannyo/public_html/api/product/read.php:25
+[19-Jan-2021 15:26:19 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: Pkd_b in /home/cheannyo/public_html/utility/JWT/JWTHelper.php on line 15
+[19-Jan-2021 15:26:19 Asia/Kuala_Lumpur] PHP Stack trace:
+[19-Jan-2021 15:26:19 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read.php:0
+[19-Jan-2021 15:26:19 Asia/Kuala_Lumpur] PHP   2. utility\JWT\JWTHelper::tokenValidate() /home/cheannyo/public_html/api/product/read.php:25
+[01-Feb-2021 20:32:57 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[01-Feb-2021 20:32:57 Asia/Kuala_Lumpur] PHP Stack trace:
+[01-Feb-2021 20:32:57 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[02-Feb-2021 09:21:59 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[02-Feb-2021 09:21:59 Asia/Kuala_Lumpur] PHP Stack trace:
+[02-Feb-2021 09:21:59 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[02-Feb-2021 16:46:06 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[02-Feb-2021 16:46:06 Asia/Kuala_Lumpur] PHP Stack trace:
+[02-Feb-2021 16:46:06 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[02-Feb-2021 21:34:10 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[02-Feb-2021 21:34:10 Asia/Kuala_Lumpur] PHP Stack trace:
+[02-Feb-2021 21:34:10 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[02-Feb-2021 21:38:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[02-Feb-2021 21:38:00 Asia/Kuala_Lumpur] PHP Stack trace:
+[02-Feb-2021 21:38:00 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[02-Feb-2021 21:38:28 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[02-Feb-2021 21:38:28 Asia/Kuala_Lumpur] PHP Stack trace:
+[02-Feb-2021 21:38:28 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[02-Feb-2021 21:40:59 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[02-Feb-2021 21:40:59 Asia/Kuala_Lumpur] PHP Stack trace:
+[02-Feb-2021 21:40:59 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[02-Feb-2021 21:46:01 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[02-Feb-2021 21:46:01 Asia/Kuala_Lumpur] PHP Stack trace:
+[02-Feb-2021 21:46:01 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[02-Feb-2021 22:08:41 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[02-Feb-2021 22:08:41 Asia/Kuala_Lumpur] PHP Stack trace:
+[02-Feb-2021 22:08:41 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[02-Feb-2021 22:31:10 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[02-Feb-2021 22:31:10 Asia/Kuala_Lumpur] PHP Stack trace:
+[02-Feb-2021 22:31:10 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[02-Feb-2021 22:32:07 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[02-Feb-2021 22:32:07 Asia/Kuala_Lumpur] PHP Stack trace:
+[02-Feb-2021 22:32:07 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[02-Feb-2021 22:32:17 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[02-Feb-2021 22:32:17 Asia/Kuala_Lumpur] PHP Stack trace:
+[02-Feb-2021 22:32:17 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[02-Feb-2021 23:00:09 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[02-Feb-2021 23:00:09 Asia/Kuala_Lumpur] PHP Stack trace:
+[02-Feb-2021 23:00:09 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[02-Feb-2021 23:00:37 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[02-Feb-2021 23:00:37 Asia/Kuala_Lumpur] PHP Stack trace:
+[02-Feb-2021 23:00:37 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 10:47:35 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 10:47:35 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 10:47:35 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 10:51:07 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 10:51:07 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 10:51:07 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 12:57:06 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 12:57:06 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 12:57:06 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 12:57:47 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 12:57:47 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 12:57:47 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 12:59:31 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 12:59:31 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 12:59:31 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 12:59:32 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 12:59:32 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 12:59:32 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:01:18 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:01:18 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:01:18 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:01:42 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:01:42 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:01:42 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:02:16 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:02:16 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:02:16 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:03:09 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:03:09 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:03:09 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:03:16 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:03:16 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:03:16 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:04:07 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:04:07 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:04:07 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:04:34 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:04:34 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:04:34 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:04:41 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:04:41 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:04:41 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:05:18 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:05:18 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:05:18 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:06:19 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:06:19 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:06:19 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:20:19 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:20:19 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:20:19 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:24:07 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:24:07 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:24:07 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:25:02 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:25:02 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:25:02 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:28:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:28:48 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:28:48 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:29:43 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:29:43 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:29:43 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:31:12 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:31:12 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:31:12 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:32:35 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:32:35 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:32:35 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:37:50 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:37:50 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:37:50 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:40:23 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:40:23 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:40:23 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:40:42 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:40:42 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:40:42 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:40:49 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:40:49 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:40:49 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:41:49 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:41:49 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:41:49 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:41:51 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:41:51 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:41:51 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:42:27 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:42:27 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:42:27 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:42:59 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:42:59 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:42:59 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:43:07 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:43:07 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:43:07 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:43:44 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:43:44 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:43:44 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:46:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:46:00 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:46:00 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:52:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:52:48 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:52:48 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:53:24 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:53:24 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:53:24 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:53:29 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:53:29 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:53:29 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:56:03 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:56:03 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:56:03 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:56:10 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:56:10 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:56:10 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:56:25 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:56:25 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:56:25 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 13:57:34 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 13:57:34 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 13:57:34 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 14:09:58 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 14:09:58 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 14:09:58 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 14:11:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 14:11:30 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 14:11:30 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 14:11:52 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 14:11:52 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 14:11:52 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 14:13:02 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 14:13:02 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 14:13:02 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 14:23:14 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 14:23:14 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 14:23:14 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 14:24:44 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 14:24:44 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 14:24:44 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 14:25:23 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 14:25:23 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 14:25:23 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 14:25:47 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 14:25:47 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 14:25:47 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 14:26:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 14:26:38 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 14:26:38 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 14:27:52 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 14:27:52 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 14:27:52 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 14:28:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 14:28:30 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 14:28:30 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 16:23:35 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 16:23:35 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 16:23:35 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 16:53:37 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 16:53:37 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 16:53:37 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 20:10:17 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 20:10:17 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 20:10:17 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 20:10:34 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 20:10:34 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 20:10:34 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 21:26:23 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 21:26:23 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 21:26:23 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[03-Feb-2021 21:29:02 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[03-Feb-2021 21:29:02 Asia/Kuala_Lumpur] PHP Stack trace:
+[03-Feb-2021 21:29:02 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 03:02:44 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 03:02:44 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 03:02:44 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 09:43:31 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 09:43:31 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 09:43:31 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 10:48:14 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 10:48:14 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 10:48:14 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 10:49:36 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 10:49:36 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 10:49:36 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 10:56:11 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 10:56:11 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 10:56:11 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 10:56:31 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 10:56:31 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 10:56:31 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 12:07:24 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 12:07:24 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 12:07:24 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 12:11:53 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 12:11:53 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 12:11:53 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 12:11:59 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 12:11:59 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 12:11:59 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 12:12:21 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 12:12:21 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 12:12:21 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 12:12:35 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 12:12:35 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 12:12:35 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 12:12:57 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 12:12:57 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 12:12:57 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 12:16:22 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 12:16:22 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 12:16:22 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 12:16:41 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 12:16:41 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 12:16:41 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:07:12 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:07:12 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:07:12 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:09:09 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:09:09 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:09:09 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:09:50 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:09:50 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:09:50 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:14:13 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:14:13 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:14:13 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:14:43 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:14:43 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:14:43 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:17:40 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:17:40 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:17:40 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:19:21 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:19:21 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:19:21 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:27:05 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:27:05 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:27:05 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:27:19 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:27:19 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:27:19 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:27:37 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:27:37 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:27:37 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:37:20 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:37:20 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:37:20 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:38:42 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:38:42 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:38:42 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:40:16 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:40:16 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:40:16 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:41:27 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:41:27 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:41:27 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:42:33 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:42:33 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:42:33 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:45:31 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:45:31 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:45:31 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:45:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:45:45 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:45:45 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:45:50 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:45:50 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:45:50 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:46:01 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:46:01 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:46:01 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:46:37 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:46:37 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:46:37 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:46:49 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:46:49 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:46:49 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:47:06 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:47:06 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:47:06 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:49:22 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:49:22 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:49:22 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:50:13 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:50:13 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:50:13 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:50:32 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:50:32 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:50:32 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:50:47 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:50:47 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:50:47 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:51:05 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:51:05 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:51:05 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:51:23 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:51:23 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:51:23 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:53:23 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:53:23 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:53:23 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:54:06 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:54:06 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:54:06 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:55:26 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:55:26 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:55:26 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:56:53 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:56:53 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:56:53 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:57:32 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:57:32 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:57:32 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 14:59:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 14:59:39 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 14:59:39 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 15:02:46 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 15:02:46 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 15:02:46 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 15:03:14 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 15:03:14 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 15:03:14 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 15:03:23 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 15:03:23 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 15:03:23 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 15:04:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 15:04:30 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 15:04:30 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 15:06:49 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 15:06:49 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 15:06:49 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 15:08:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 15:08:04 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 15:08:04 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 15:08:32 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 15:08:32 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 15:08:32 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 15:09:03 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 15:09:03 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 15:09:03 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 15:10:33 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 15:10:33 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 15:10:33 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 15:11:27 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 15:11:27 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 15:11:27 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 15:12:05 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 15:12:05 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 15:12:05 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 15:12:21 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 15:12:21 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 15:12:21 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 15:12:33 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 15:12:33 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 15:12:33 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 15:16:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 15:16:38 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 15:16:38 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 15:16:53 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 15:16:53 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 15:16:53 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 15:18:22 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 15:18:22 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 15:18:22 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 15:34:05 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 15:34:05 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 15:34:05 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 16:16:50 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 16:16:50 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 16:16:50 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 18:09:10 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 18:09:10 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 18:09:10 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 18:09:11 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 18:09:11 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 18:09:11 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 19:03:57 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 19:03:57 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 19:03:57 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 19:07:59 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 19:07:59 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 19:07:59 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 19:10:02 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 19:10:02 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 19:10:02 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 19:11:26 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 19:11:26 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 19:11:26 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 19:11:56 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 19:11:56 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 19:11:56 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 19:12:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 19:12:00 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 19:12:00 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 19:12:21 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 19:12:21 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 19:12:21 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 19:15:29 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 19:15:29 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 19:15:29 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 19:17:43 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 19:17:43 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 19:17:43 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 19:18:37 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 19:18:37 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 19:18:37 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 19:19:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 19:19:45 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 19:19:45 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 19:22:03 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 19:22:03 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 19:22:03 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 19:24:24 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 19:24:24 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 19:24:24 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 19:24:37 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 19:24:37 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 19:24:37 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 19:28:42 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 19:28:42 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 19:28:42 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 19:30:02 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 19:30:02 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 19:30:02 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 21:36:59 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 21:36:59 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 21:36:59 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 21:37:50 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 21:37:50 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 21:37:50 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 21:39:06 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 21:39:06 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 21:39:06 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 21:39:12 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 21:39:12 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 21:39:12 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 21:39:42 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 21:39:42 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 21:39:42 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[04-Feb-2021 21:58:52 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[04-Feb-2021 21:58:52 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 21:58:52 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[05-Feb-2021 17:10:25 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[05-Feb-2021 17:10:25 Asia/Kuala_Lumpur] PHP Stack trace:
+[05-Feb-2021 17:10:25 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[05-Feb-2021 17:10:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[05-Feb-2021 17:10:39 Asia/Kuala_Lumpur] PHP Stack trace:
+[05-Feb-2021 17:10:39 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[05-Feb-2021 17:10:44 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[05-Feb-2021 17:10:44 Asia/Kuala_Lumpur] PHP Stack trace:
+[05-Feb-2021 17:10:44 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[05-Feb-2021 20:08:32 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[05-Feb-2021 20:08:32 Asia/Kuala_Lumpur] PHP Stack trace:
+[05-Feb-2021 20:08:32 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[06-Feb-2021 12:11:42 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[06-Feb-2021 12:11:42 Asia/Kuala_Lumpur] PHP Stack trace:
+[06-Feb-2021 12:11:42 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0
+[06-Feb-2021 13:27:02 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: series_name in /home/cheannyo/public_html/api/product/read_one.php on line 65
+[06-Feb-2021 13:27:02 Asia/Kuala_Lumpur] PHP Stack trace:
+[06-Feb-2021 13:27:02 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/product/read_one.php:0

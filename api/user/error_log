@@ -1,0 +1,306 @@
+[26-Jan-2021 11:16:27 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'FREDDIE' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:16:40 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'FREDDIE' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:18:32 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'FREDDIE' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:18:36 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'FREDDIE' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:20:03 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:20:09 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:20:12 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:20:16 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:20:17 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:20:18 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:20:18 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:20:18 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:20:19 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:20:19 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:20:20 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:20:20 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:20:20 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:20:23 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:20:23 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:20:23 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:20:24 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:20:24 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:20:24 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:20:55 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:20:57 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:21:04 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:21:04 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:21:04 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:21:07 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:21:07 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:21:07 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:21:07 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:21:07 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:21:08 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 11:21:08 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MAR' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 14:00:25 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'EZRA.D' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 14:00:27 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'EZRA.D' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 14:00:34 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'EZRA.D' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 14:00:34 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'EZRA.D' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 14:00:34 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'EZRA.D' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 14:00:35 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'EZRA.D' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 14:00:35 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'EZRA.D' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 14:00:35 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'EZRA.D' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 14:00:35 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'EZRA.D' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[26-Jan-2021 14:00:36 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'EZRA.D' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[31-Jan-2021 13:21:29 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'JEFFINDON' for key 'username'' in /home/cheannyo/public_html/api/model/User.php:352
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/User.php(352): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/user/register.php(57): api\model\User->register()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/User.php on line 352
+[04-Feb-2021 15:10:20 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function hashpayload() in /home/cheannyo/public_html/api/user/register.php on line 47
+[04-Feb-2021 15:10:20 Asia/Kuala_Lumpur] PHP Stack trace:
+[04-Feb-2021 15:10:20 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/user/register.php:0
+[05-Feb-2021 12:34:58 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PHPMailer\PHPMailer\Exception' with message 'SMTP Error: Could not authenticate.' in /home/cheannyo/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:2037
+Stack trace:
+#0 /home/cheannyo/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1857): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/cheannyo/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1600): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Fri, 5 Fe...', '<!DOCTYPE html>...')
+#2 /home/cheannyo/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1436): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/cheannyo/public_html/utility/MailHelper/OAuthMailerHelper.php(134): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/cheannyo/public_html/api/user/register.php(55): utility\MailHelper\OAuthMailerHelper->sendMail('yungts97@gmail....', 'Thanks for regi...', '<!DOCTYPE html>...')
+#5 {main}
+  thrown in /home/cheannyo/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 2037
+[05-Feb-2021 12:52:45 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PHPMailer\PHPMailer\Exception' with message 'SMTP Error: Could not connect to SMTP host.' in /home/cheannyo/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:2026
+Stack trace:
+#0 /home/cheannyo/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1857): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/cheannyo/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1600): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Fri, 5 Fe...', '<!DOCTYPE html>...')
+#2 /home/cheannyo/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1436): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/cheannyo/public_html/utility/MailHelper/OAuthMailerHelper.php(135): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/cheannyo/public_html/api/user/register.php(55): utility\MailHelper\OAuthMailerHelper->sendMail('yungts97@gmail....', 'Thanks for regi...', '<!DOCTYPE html>...')
+#5 {main}
+  thrown in /home/cheannyo/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 2026
+[05-Feb-2021 12:57:38 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PHPMailer\PHPMailer\Exception' with message 'SMTP Error: Could not connect to SMTP host.' in /home/cheannyo/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:2026
+Stack trace:
+#0 /home/cheannyo/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1857): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/cheannyo/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1600): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Fri, 5 Fe...', '<!DOCTYPE html>...')
+#2 /home/cheannyo/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1436): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/cheannyo/public_html/utility/MailHelper/OAuthMailerHelper.php(135): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/cheannyo/public_html/api/user/register.php(55): utility\MailHelper\OAuthMailerHelper->sendMail('yungts97@gmail....', 'Thanks for regi...', '<!DOCTYPE html>...')
+#5 {main}
+  thrown in /home/cheannyo/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 2026

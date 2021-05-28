@@ -1,0 +1,12 @@
+[20-Jan-2021 22:55:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: CCName in /home/cheannyo/public_html/api/payment/response.php on line 36
+[20-Jan-2021 22:55:04 Asia/Kuala_Lumpur] PHP Stack trace:
+[20-Jan-2021 22:55:04 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/payment/response.php:0
+[20-Jan-2021 22:55:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: CCNo in /home/cheannyo/public_html/api/payment/response.php on line 37
+[20-Jan-2021 22:55:04 Asia/Kuala_Lumpur] PHP Stack trace:
+[20-Jan-2021 22:55:04 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/payment/response.php:0
+[20-Jan-2021 22:55:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: S_bankname in /home/cheannyo/public_html/api/payment/response.php on line 38
+[20-Jan-2021 22:55:04 Asia/Kuala_Lumpur] PHP Stack trace:
+[20-Jan-2021 22:55:04 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/payment/response.php:0
+[20-Jan-2021 22:55:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: S_country in /home/cheannyo/public_html/api/payment/response.php on line 39
+[20-Jan-2021 22:55:04 Asia/Kuala_Lumpur] PHP Stack trace:
+[20-Jan-2021 22:55:04 Asia/Kuala_Lumpur] PHP   1. {main}() /home/cheannyo/public_html/api/payment/response.php:0

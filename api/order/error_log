@@ -1,0 +1,6 @@
+[01-Feb-2021 12:51:25 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.payment_date' in 'field list'' in /home/cheannyo/public_html/api/model/Order.php:170
+Stack trace:
+#0 /home/cheannyo/public_html/api/model/Order.php(170): PDOStatement->execute()
+#1 /home/cheannyo/public_html/api/order/readAll.php(26): api\model\Order->readAll()
+#2 {main}
+  thrown in /home/cheannyo/public_html/api/model/Order.php on line 170
