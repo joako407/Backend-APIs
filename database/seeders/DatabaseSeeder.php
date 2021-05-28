@@ -13,6 +13,9 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
-        // \App\Models\User::factory(10)->create();
+        // Add more seeders here to seed database with mock data
+        $this->call([
+            UserRoleSeeder::class,
+        ]);
     }
 }
